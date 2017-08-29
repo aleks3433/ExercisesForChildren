@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercises for children</string>
+    <string name="colors">Colors</string>
+    <string name="numbers">Numbers</string>
+    <string name="shapes">Shapes</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="yellow">YELLOW</string>
+</resources>
